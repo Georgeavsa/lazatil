@@ -1,0 +1,86 @@
+body {
+    background-color: antiquewhite;
+    font-family: "Oswald", sans-serif;
+    overflow-x: hidden;
+    height: 800px;
+}
+
+.logo {
+    margin-top: 5px;
+}
+
+.orange {
+    cursor: pointer;
+    height: 250px;
+    margin-top: 30px;
+    border: 3px black solid;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.pantera {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    margin-left: 20px;
+}
+
+.blackzol {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    margin-left: 20px;
+}
+
+.whitetesli {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    margin-left: 20px;
+}
+
+.fotola {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    margin-left: 20px;
+}
+
+.tetri {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    position: absolute;
+    left: 1150px;
+    top: 105px;
+}
+
+.shemodgoma {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    position: absolute;
+    left: 470px;
+    top: 380px;
+}
+
+.bolo {
+    cursor: pointer;
+    height: 250px;
+    border: 3px black solid;
+    position: absolute;
+    left: 695px;
+    top: 380px;
+}
+
+.under {
+    position: absolute;
+    top: 640px;
+    left: 350px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap')
+
